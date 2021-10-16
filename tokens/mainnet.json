@@ -1,4 +1,14 @@
 [
+  
+  {
+    "address": "0x383518188c0c6d7730d91b2c03a03c837814a899",
+    "chainId": 1,
+    "name": "Olympus",
+    "symbol": "OHM",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Horus-Exchange/icons/master/token/ohm.jpg"
+  },
+
   {
     "address": "0x111111111117dC0aa78b770fA6A738034120C302",
     "chainId": 1,
